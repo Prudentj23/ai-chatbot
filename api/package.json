@@ -1,0 +1,9 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^3.0.0"
+  }
+}
